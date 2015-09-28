@@ -2,7 +2,8 @@
 # walmarteam-test
 E-commerce application responsive, cross browser and cross plataform prototype:  profile & shipping address; products list; products 360 viewer effects
 
-all Project code by hand in this test case.
+all Project code by hand on this test case.
+online prototype: http://www.demeloweb.orgfree.com/walmartest
 
 HTML Structure:
 
@@ -16,20 +17,20 @@ In the beginning of the CSS-file there's a few lines of code for resetting the s
 
 CSS Style:
 
-all the main style proposed might be found on style.css file. The code linew has been written with self explanaition comments. If you find trouble visualizing the background logo at intro page section, just chance the directory name url on this file. Check the properties of the logo.jpg, inside of the "img" directory, dowloaded offline on your desktop archive roots derectory, walmarteam-test_img_logo.jpg You may find how The application works in this link hosted for free test http://www.demeloweb.orgfree.com/walmartest
+all the main style proposed might be found on style.css file. The code linew has been written with self explanaition comments. If you find trouble visualizing the background logo at intro page section, just chance the directory name url on this file. Check the properties of the logo.jpg, inside of the "img" directory, dowloaded offline in your desktop archive roots directory, walmarteam-test_img_logo.jpg You may find how The application works in this link hosted for free test http://www.demeloweb.orgfree.com/walmartest
 
 The projects slider was developed using jquery libraries for Mobile friendly features, touch events, responsive and cross plataform capabilities, IOS scrolling touch, adapting to different screen and OS.
 
-all The features was done with code lines for cross browser and Cross plataform capabilities, aiming to accelerate The performance user experience. Almost The tests done, but best performance checked on any screen size and OS. Line codes for slider entrency animation checked as well.
+all The features was done with code lines for cross browser and cross plataform capabilities, aiming to accelerate the performance user experience. Almost The tests done, but best performance checked in CHROME BROWSER on any screen size and OS. 
 
-The product content panel was developed always thinking on best performance cross browser and plataform as well. Smooth scrolling IOS coded on.
+Line codes for slider entrency animation checked as well. The product content panel was developed always thinking on best performance cross browser and plataform as well. Smooth scrolling IOS coded on.
 
 
 Modernizr.js:
 
-the modernizr library help to detect The availabilities of next-generation in modern users browsers, use alittle piece of .js code, we can improve The industrial code real development, with node.js and grunt task automation. In this test case, all coded by hand.
+the modernizr library help to detect The availabilities of next-generation modern users browsers. Using a little piece of .js code, we can improve the industrial code real development, with node.js and grunt task automation. In this test case, all coded by hand.
 
 jquery 360 product viewer:
 
-plugin that allows to drag/ swipe/ rotate a 3D product image to display 360 view of your product, using a ser of images. Good for e-commerce website for showing The details of The product. Simple and lightweight code ro be used Just including j360.js and jquery/1.9.1/jquery.min.js The amount of products pictures, depende of The products details to be shown. In this case test prototype, i used 35 different position images to this rotation test.
+plugin that allows to drag/ swipe/ rotate a 3D product image to display 360 view of your product, using a ser of images. Good for e-commerce website for showing the details of the product. Simple and lightweight code to be used just including j360.js and jquery/1.9.1/jquery.min.js. The amount of products pictures, depends of the product details to be shown. In this case test prototype, I used 35 different position images to this rotation test.
 
