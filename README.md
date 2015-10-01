@@ -1,9 +1,17 @@
 
 # walmarteam-test
-E-commerce application responsive, cross browser and cross plataform prototype:  profile & shipping address; products list; products 360 viewer effects
+E-commerce application responsive, cross browser and cross plataform prototype:  profile & shipping address; products list; products 360 viewer effects proposition.
 
-all Project code by hand on this test case.
+All Project code by hand on this test case.
 online prototype: http://www.demeloweb.orgfree.com/walmartest
+
+Toolbox for next-step development proposals and industrial implementations for large projects at this prototype:
+
+(1) We can use GRUNT.JS that is a task runner operator via terminal through NODE.JS interpreter, that on together realize an automation of tasks to developing web applications. Different plugins may be used for minifing .js libraries aiming best performance cross browser e.g. UGLYFING.JS; Archives concatenation i.e. realize changes simutaneously on different directories with less probabilities to mistake; compiling with pre processors CSS to SASS on respective directorys e.g. for best performance cross plataform and so on.
+
+(2) Probably the best .js framework is ANGULAR.JS to be used for dynamic data attributes, declaring dynamic views in web-applications and Greatful to manipulatins DOM provided e.g.. The PERFIL & Shipping Address inputing and printing variable informations about each user e.g. may be coded using ANGULAR.JS. Or the update of products information that came from e-commerce chart page, for best visualizing all individual informations rules e.g. and the 360 product viewer detais via JQUERY.JS
+
+Actuall project
 
 HTML Structure:
 
