@@ -26,7 +26,7 @@ CSS Style:
 
 all the main style proposed might be found on style.css file. The code linew has been written with self explanaition comments. If you find trouble visualizing the background logo at intro page section, just chance the directory name url on this file. Check the properties of the logo.jpg, inside of the "img" directory, dowloaded offline in your desktop archive roots directory, walmarteam-test/img/logo.jpg 
 
-You may find how The application works in this link hosted for free test http://www.demeloweb.orgfree.com/walmartest
+You may find how The application works in this link hosted for free test http://www.demeloweb.orgfree.com/walmartest/360efx/index.html
 
 The projects slider was developed using jquery libraries for Mobile friendly features, touch events, responsive and cross plataform capabilities, IOS scrolling touch, adapting to different screen and OS.
 
